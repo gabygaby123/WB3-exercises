@@ -42,6 +42,7 @@ addNumbers(someNum1,someNum2);
 someNum1 = 15;
 someNum2 = 20;
 addNumbers(someNum1,someNum2);
+console.log()
 
 //Third Function
 function displayReceipt(totalDue, amountPaid){
@@ -53,9 +54,11 @@ function displayReceipt(totalDue, amountPaid){
 let total = 20;
 let paidAmount = 25;
 displayReceipt(total,paidAmount)
+console.log()
 total = 20;
 paidAmount = 20;
 displayReceipt(total,paidAmount)
+console.log()
 total = 25;
 paidAmount = 20;
 displayReceipt(total,paidAmount)
