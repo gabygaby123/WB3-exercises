@@ -1,11 +1,3 @@
-// function displayMailingLabel(name,address,city,state,zip){
-//     console.log("Name: " + name);
-//     console.log("Address: " + address );
-//     console.log("City: " + city);
-//     console.log("State: " + state);
-//     console.log("Zip: " + zip);
-// }
-
 // First Function
 function displayMailingLabel(name,address,city,state,zip){
     console.log(" Name: " + name);
